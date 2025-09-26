@@ -30,3 +30,5 @@ public class SumWithAutoboxing {
         scanner.close();
     }
 }
+
+
